@@ -22,7 +22,7 @@ A lightweight, educational 3D engine written in C++ with **software rendering** 
 ```bash
 sudo apt update
 sudo apt install build-essential cmake libglfw3-dev libgl1-mesa-dev
-git clone https://github.com/your-username/3d-software-renderer.git
+git clone https://github.com/8skpd/Cpp-3D-Engine.git
 cd 3d-software-renderer
 
 # Initialize Dear ImGui (submodule)
