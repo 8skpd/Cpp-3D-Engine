@@ -2,7 +2,7 @@
 
 A lightweight, educational 3D engine written in C++ with **software rendering** (CPU-based rasterization). Built from scratch — OpenGL is used only to display the final framebuffer.
 
-![Demo](demo.png) <!-- optional: add screenshot later -->
+![Demo](demo.jpg) <!-- optional: add screenshot later -->
 
 ## ✨ Features
 
